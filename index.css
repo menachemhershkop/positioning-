@@ -1,0 +1,47 @@
+span{
+    background-color: red;
+    color: white;
+    padding: 2px;
+}
+.new{
+    width: 250px;
+    height: 100px;
+    margin: 2px;
+    /* background-color: yellowgreen; */
+    display: inline-block;
+    padding: 6px;
+    border-right: 1px solid;
+    vertical-align: baseline;
+    white-space: wrap;
+}
+.news{
+    background-color: silver;
+    padding: 10px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.title{
+    background-color: darkblue;
+    line-height: 2;
+    color: white;
+    display: inline-block;
+    padding: 0.003mm;
+    /* box-shadow: 10px 0px 0px #EDC330, -10px 0 0px #edc330; */
+}
+.main img{
+    float: left;
+    position: relative;
+    bottom: 250px;
+}
+
+nav{
+    background-color: darkslateblue;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 2mm;
+}
